@@ -2,7 +2,7 @@
   "projects":{
     "enebra":{
       "qrbarscanner":{
-        "url":"http://109.87.61.234/scan"
+        "url":["http://234.234.234.234/scan", "http://109.109.109.109/scan", "http://109.87.61.234/scan"]
       }
     }
   }
